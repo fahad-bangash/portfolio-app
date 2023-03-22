@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Fahad Blogger All Right Reserved.</small>
+        <small>&copy; Developed by Fahad Bangash</small>
       </div>
     </footer>
   );
